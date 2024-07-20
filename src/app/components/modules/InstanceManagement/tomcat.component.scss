@@ -1,0 +1,17 @@
+.heading-1 {
+    text-align: center;
+}
+
+.div-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    column-gap: 1rem;
+    row-gap: 1rem;
+    align-content: end;
+}
+
+.div-2 {
+    text-align: right;
+}
+
